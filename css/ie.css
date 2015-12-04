@@ -1,0 +1,83 @@
+#login div.submit2, #login2 div.submit2, #login3 div.submit2, #register div.submit2{
+	background:none;
+	margin:1em 25px; 
+	text-align:left;
+	}
+#login div.submit2 label , #login2 div.submit2 label, #login3 div.submit2 label , #register div.submit2 label {
+	float:none;
+	display:inline;
+	font-size:11px;}	
+#submit2 {
+	border:0;
+	padding:0px 0px 0px 60px;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	font-size:12px;
+	color:#fff;
+	text-shadow:#007dab 0 1px 0;
+	background:#0092c8;
+	-moz-border-radius:50px;
+	-webkit-border-radius:50px;
+	behavior: url(https://stuwww.uvt.nl/~s948083/css/border-radius.htc);	
+	border-radius:50px;
+	cursor:pointer;
+	}
+	
+
+
+#login2 table.left{
+width:100%;
+position:relative;
+left:-40px;
+}
+#login2 table.left td.lefty{
+width:100%;
+position:relative;
+left:-40px;
+}
+
+#login3 table.left  {
+width:100%;
+position:relative;
+left:-37px;
+}
+
+#login3 table.left td.lefty{
+width:100%;
+position:relative;
+left:-0px;
+}
+
+#login2 div.iesubmit, #login3 div.iesubmit{
+width:150px;
+position:relative;
+left:0px;
+top:0px;
+background-color:#0092c8;
+margin:0px;
+padding:0px;
+text-align:left;
+height:20px;
+}
+
+#login2 div.iesubmit div.iesubmittd, #login3 div.iesubmit div.iesubmittd{
+width:100%;
+position:absolute;
+left:0px;
+background-color:#D8D8D8;
+margin:0px;
+padding:0px;
+text-align:left;
+z-index:-1;
+}
+#login2 div.iesubmit div.iesubmittd2, #login3 div.iesubmit div.iesubmittd2{
+width:100%;
+position:absolute;
+right:0px;
+background-color:#0092c8;
+margin:0px;
+padding:0px;
+text-align:left;
+z-index:-1;
+}
